@@ -4,7 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    myclass.cpp
+    tax_calculator.cpp
 
 HEADERS += \
-    myclass.h
+    tax_calculator.h
