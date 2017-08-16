@@ -9,3 +9,4 @@ float get_user_amount();
 void swap_by_value(int x, int y);
 void swap_by_pointer(int *x, int *y);
 void swap_by_reference(int &x, int &y);
+void Log(const char* message);
